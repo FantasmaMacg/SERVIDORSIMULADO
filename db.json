@@ -1,14 +1,16 @@
 {
     "mensaje": "El juego ha sido reiniciado. Ingresa tu nombre y los intentos para comenzar de nuevo.",
     "estado": {
+        "id": 1,
         "nombre": "",
         "numeroAdivinar": 0,
         "numerosEnviados": [],
         "intentosRestantes": 0,
         "respuestas": {
+            "id": 1,
             "correcto": "=",
-            "mayor": "+",
-            "menor": "-"
+            "mayor": ">",
+            "menor": "<"
         }
     }
 }
