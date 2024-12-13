@@ -2,7 +2,7 @@
     "mensaje": "El juego ha sido reiniciado. Ingresa tu nombre y los intentos para comenzar de nuevo.",
     "estado": {
       "nombre": "",
-      "numeroAdivinar": null,
+      "numeroAdivinar": 54,
       "numerosEnviados": [],
       "intentosRestantes": 0,
       "respuestas": {
