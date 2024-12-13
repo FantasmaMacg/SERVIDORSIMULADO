@@ -1,16 +1,16 @@
 {
-  "juegos": [
-    {
-      "id": 1,
-      "nombre": "Juego de Adivinanza",
-      "numeroAdivinar": 5,
-      "numerosEnviados": [],
-      "intentosRestantes": 6,
-      "respuestas": {
-        "correcto": "=",
-        "mayor": ">",
-        "menor": "<"
-      }
-    }
-  ]
+    "juegos": [
+        {
+            "id": 1,
+            "nombre": "Juego de Adivinanza",
+            "numeroAdivinar": 50,
+            "numerosEnviados": [],
+            "intentosRestantes": 5,
+            "respuestas": {
+                "correcto": "=",
+                "mayor": ">",
+                "menor": "<"
+            }
+        }
+    ]
 }
