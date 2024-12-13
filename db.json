@@ -5,6 +5,7 @@
             "nombre": "Juego de Adivinanza",
             "numeroAdivinar": 50,
             "intentosRestantes": 5
+            "numerosEnviados": [],
         }
     ]
 }
