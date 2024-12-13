@@ -4,10 +4,7 @@
             "id": 1,
             "nombre": "Juego de Adivinanza",
             "numeroAdivinar": 50,
-            "numerosEnviados": [],
-            "intentosRestantes": 5,
-           
-            
+            "intentosRestantes": 5
         }
     ]
 }
