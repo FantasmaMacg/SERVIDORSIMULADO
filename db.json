@@ -2,7 +2,7 @@
     "juegos": [
         {
             "id": 1,
-            "nombre": "Juego de Adivinanza",
+            "nombre": "miguel",
             "numeroAdivinar": 50,
             "intentosRestantes": 5
             "numerosEnviados": [],
