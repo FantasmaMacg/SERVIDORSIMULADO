@@ -4,8 +4,8 @@
             "id": 1,
             "nombre": "miguel",
             "numeroAdivinar": 50,
-            "intentosRestantes": 5
-            "numerosEnviados": [],
+            "intentosRestantes": 5,
+            "numerosEnviados": []
         }
     ]
 }
